@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 4d655ccecd56fb24da84b02e83efa804
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cell_with_filopodia:GO1:GameObject1
+    100004: cell_with_filopodia:GO2:GameObject2
+    100006: cell_with_filopodia:GO2:GO1:GameObject1
+    100008: cell_with_filopodia:GO2:transform1
+    100010: cell_with_filopodia:GO2:transform2
+    100012: filopodia_level_3:cell1DeltaLowPoly3
+    100014: filopodia_level_5:cell1DeltaLowPoly4
+    100016: GameObject2
+    100018: GO1:GameObject1
+    400000: //RootNode
+    400002: cell_with_filopodia:GO1:GameObject1
+    400004: cell_with_filopodia:GO2:GameObject2
+    400006: cell_with_filopodia:GO2:GO1:GameObject1
+    400008: cell_with_filopodia:GO2:transform1
+    400010: cell_with_filopodia:GO2:transform2
+    400012: filopodia_level_3:cell1DeltaLowPoly3
+    400014: filopodia_level_5:cell1DeltaLowPoly4
+    400016: GameObject2
+    400018: GO1:GameObject1
+    2300000: cell_with_filopodia:GO2:GO1:GameObject1
+    2300002: filopodia_level_3:cell1DeltaLowPoly3
+    2300004: filopodia_level_5:cell1DeltaLowPoly4
+    2300006: GameObject2
+    2300008: GO1:GameObject1
+    3300000: cell_with_filopodia:GO2:GO1:GameObject1
+    3300002: filopodia_level_3:cell1DeltaLowPoly3
+    3300004: filopodia_level_5:cell1DeltaLowPoly4
+    3300006: GameObject2
+    3300008: GO1:GameObject1
+    4300000: cell_with_filopodia:GO2:GO1:GameObject1
+    4300002: GO1:GameObject1
+    4300004: GameObject2
+    4300006: filopodia_level_3:cell1DeltaLowPoly3
+    4300008: filopodia_level_5:cell1DeltaLowPoly4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

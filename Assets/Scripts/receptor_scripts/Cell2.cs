@@ -42,7 +42,7 @@ public class Cell2 : MonoBehaviour {
 	public float localDiffusionValue = 0;
 	float tempEndoRate;
 	
-	[SerializeField] exoEndoRates exoEndoRates;
+	//[SerializeField] exoEndoRates exoEndoRates;
 	
 	//public float exocytosingReceptors;
 	//public int numOfReceptors;
